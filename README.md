@@ -20,5 +20,5 @@ By combining Orleans' virtual actor model with RavenDB's powerful distributed da
 ### Connection String
 ```csharp
 var connectionString = "http://ravendb-node1:8080;http://ravendb-node2:8180";
-var serviceId = "FriendlyForceTracking";
-var databaseName = "FriendlyForceTrackingDB";
+var serviceId = "serviceid-1";
+var databaseName = "example";
